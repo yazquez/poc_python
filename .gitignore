@@ -1,0 +1,8 @@
+.venv
+.metals
+tmp
+storage
+files
+poc
+**/__pycache__
+*.log
